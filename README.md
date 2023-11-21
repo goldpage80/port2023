@@ -29,4 +29,5 @@
 - vue를 설치합니다. `npm init vue@latest`
 - sass를 설치합니다. `npm install sass`
 - gsap를 설치합니다. `npm install gsap`
-- lenis를 설치합니다. `npm install @studio-freight/lenis`# port2023
+- lenis를 설치합니다. `npm install @studio-freight/lenis`
+출처: https://webstoryboy.co.kr/1944 [WEBSTORYBOY:티스토리]# port2024-vue
